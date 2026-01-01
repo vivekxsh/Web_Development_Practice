@@ -15,18 +15,18 @@ This document tracks everything I plan to learn, practice, and build while becom
 ---
 
 ## 🌐 Web Basics
-- [✔️] How the Internet works
-- [✔️] HTTP & HTTPS
-- [✔️] Browsers and how they render websites
-- [✔️] Domain names & hosting
-- [✔️] Client vs Server
+- [ ] How the Internet works
+- [ ] HTTP & HTTPS
+- [ ] Browsers and how they render websites
+- [ ] Domain names & hosting
+- [ ] Client vs Server
 
 ---
 
 ## 🎨 Front-End Development
 
 ### 🧱 HTML (Structure)
-- [✔️] HTML basics
+- [ ] HTML basics
 - [ ] Semantic HTML
 - [ ] Forms & inputs
 - [ ] Accessibility (a11y)
