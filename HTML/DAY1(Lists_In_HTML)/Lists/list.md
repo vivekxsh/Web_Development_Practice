@@ -1,7 +1,3 @@
-Here’s a **simple and clear Markdown section** you can use in your `.md` file to explain **Lists in HTML** 👇
-(Perfect for notes or a learning roadmap)
-
----
 
 ````md
 ## 📋 Lists in HTML
