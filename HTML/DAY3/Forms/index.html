@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms in HTML</title>
+</head>
+
+<body>
+
+    <form action="#">
+
+        <div>
+            <label for="username">Enter Your Username: </label>
+            <input type="text" id="username" placeholder="Enter Username" name="username">
+        </div>
+        <div>
+            <label for="password">Enter Password: </label>
+            <input type="password" id="password" placeholder="Enter Password" name="password">
+        </div>
+        <div>
+            <label for="number">Enter any number: </label>
+            <input type="number" id="number" placeholder="Enter any number">
+        </div>
+        <div>
+            <label for="time">Enter Time: </label>
+            <input type="time" id="time" placeholder="Enter time">
+        </div>
+        <div>
+            <label for="color">Choose any color: </label>
+            <input type="color" id="color" placeholder="Choose any color">
+        </div>
+
+        <button>Submit</button>
+
+        <hr>
+
+        <!-- about checkbox  -->
+        <input type="checkbox" id="age">
+        <label for="age">I am 18+</label>
+
+
+        <!-- Dropdown Using select element -->
+         <div>
+            Choose you profession
+            <select name="option" id="option">
+                <option>Select your option</option>
+                <option value="Student">Student</option>
+                <option value="developer">Developer</option>
+            </select>
+         </div>
+
+
+         <div>
+            <label for="volume">Volume</label>
+            <input type="range" min="0" max="100" id="volume">
+         </div>
+
+
+         <!-- Textarea element  -->
+          <label for="feedback">Write your feedback: </label>
+          <textarea id="feedback" placeholder="Write Your feedback here"></textarea>
+
+
+    </form>
+
+</body>
+
+</html>
