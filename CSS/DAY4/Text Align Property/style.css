@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    border: solid;
+    text-shadow: 2px 2px 5px gray;
+}
+
+p {
+    unicode-bidi: bidi-override;
+    direction: ltr;
+    white-space: wrap;
+    line-height: 2;
+    text-indent: 40px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
