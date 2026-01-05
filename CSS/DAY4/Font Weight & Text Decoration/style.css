@@ -1,0 +1,17 @@
+h1 {
+  font-weight: bold;
+  font-weight: 500;
+}
+
+p {
+  text-decoration: line-through;
+  /* text-decoration: underline;
+    text-decoration: overline underline; */
+}
+
+p {
+  /* text-decoration: underline; */
+  text-decoration-color: red;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 2px;
+}
