@@ -1,0 +1,26 @@
+section {
+    margin-top: 100px;
+}
+
+
+div {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: rgba(0, 255, 0, 0.4);
+    border: 2px solid black;
+    margin: 10px;
+}
+
+div:nth-of-type(2n) {
+    background-color: rgb(247, 188, 79);
+}
+
+div:nth-of-type(3n) {
+    background-color: rgb(252, 221, 163);
+}
+
+/* transform */
+#one {
+    transform: rotate(45deg);
+}
